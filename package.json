@@ -1,0 +1,16 @@
+{
+  "name": "assignment_3_final",
+  "version": "1.0.0",
+  "description": "Chat App",
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.15.2",
+    "mongodb": "^2.2.26",
+    "socket.io": "1.7.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
